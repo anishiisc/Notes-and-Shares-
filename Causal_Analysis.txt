@@ -1,0 +1,13 @@
+Causal Analysis :
+
+Python Link:
+https://blog.dominodatalab.com/understanding-causal-inference/
+https://www.marktechpost.com/2020/02/04/causalnex-an-open-source-python-library-that-helps-data-scientists-to-infer-causation-rather-than-observing-correlation/
+https://medium.com/causal-data-science/causal-data-science-721ed63a4027
+
+
+
+
+https://www.tandfonline.com/doi/full/10.1080/02698595.2019.1630927
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466903/
+https://blog.exploratory.io/an-introduction-to-causal-impact-analysis-a57bce54078e
