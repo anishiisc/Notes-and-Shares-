@@ -1,0 +1,163 @@
+IHUB:
+
+[18:11] Boddepalli Vamsi - DXC
+    Drl@1234
+​[18:15] Boddepalli Vamsi - DXC
+    ihubnext.mydrreddys.com
+
+
+Recommendation Systems 
+-----------------------
+https://www.coursera.org/learn/recommender-systems-introduction?specialization=recommender-systems
+
+
+
+Optimization / OR 
+----------------
+OR - 1 
+Coursera: - https://www.coursera.org/learn/operations-research-algorithms#about
+
+Coursera 
+OR -2 - Optimization 
+https://www.coursera.org/learn/operations-research-modeling
+----------------------------------------------------------------------------------
+https://www.gurobi.com/resource/python-i-webinar/
+https://www.gurobi.com/documentation/9.1/quickstart_windows/cs_python.html
+https://www.gurobi.com/documentation/9.1/quickstart_windows/cs_example_mip1_py.html
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+BORUTA
+------------
+https://medium.com/analytics-vidhya/is-this-the-best-feature-selection-algorithm-borutashap-8bc238aa1677
+https://www.kaggle.com/residentmario/automated-feature-selection-with-boruta
+https://www.listendata.com/2017/05/feature-selection-boruta-package.html
+https://www.researchgate.net/publication/220443685_Boruta_-_A_System_for_Feature_Selection/link/5574acf708ae7536374ff0e8/download
+https://medium.com/analytics-vidhya/is-this-the-best-feature-selection-algorithm-borutashap-8bc238aa1677
+
+
+
+
+SHAP plots 
+-------------------
+SHAPLEY VALUE:
+https://christophm.github.io/interpretable-ml-book/shapley.html#shapley
+------------------
+
+
+
+
+https://towardsdatascience.com/a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b
+https://christophm.github.io/interpretable-ml-book/shap.html
+https://www.kaggle.com/wrosinski/shap-feature-importance-with-feature-engineering
+https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d
+
+
+
+
+
+
+
+
+
+RL:
+Coursera:
+https://www.coursera.org/specializations/reinforcement-learning
+https://towardsdatascience.com/the-ultimate-beginners-guide-to-reinforcement-learning-588c071af1ec
+
+
+
+Gcp Account :
+https://accounts.google.com/signin/v2/identifier?service=cloudconsole&passive=1209600&osid=1&continue=https%3A%2F%2Fconsole.cloud.google.com%2F%3Fref%3Dhttps%3A%2F%2Fwww.google.com%2F&followup=https%3A%2F%2Fconsole.cloud.google.com%2F%3Fref%3Dhttps%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+https://console.cloud.google.com/
+
+
+GCP
+https://www.coursera.org/learn/gcp-fundamentals#syllabus
+https://www.coursera.org/learn/google-machine-learning?specialization=machine-learning-tensorflow-gcp#syllabus
+https://www.coursera.org/learn/gcp-big-data-ml-fundamentals
+https://www.slideshare.net/opsta/introduction-to-google-cloud-platform-196030737
+
+
+Google Collab 
+https://www.geeksforgeeks.org/how-to-use-google-colab/
+
+
+Confusion Matrix
+https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/#:~:text=A%20confusion%20matrix%20is%20a,related%20terminology%20can%20be%20confusing.
+
+Decile Charts
+https://select-statistics.co.uk/blog/cumulative-gains-and-lift-curves-measuring-the-performance-of-a-marketing-campaign/
+
+
+Handling Class Imbalance 
+https://machinelearningmastery.com/what-is-imbalanced-classification/
+https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/
+https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18
+
+
+Feature Importance Methods 
+-----------------------------
+https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/
+https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2
+https://machinelearningmastery.com/calculate-feature-importance-with-python/
+https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e
+--------------------------------------------
+
+
+Anomaly Detection Methods 
+------------------------------
+https://www.bmc.com/blogs/machine-learning-anomaly-detection/
+https://www.allerin.com/blog/machine-learning-for-anomaly-detection
+https://www.kdnuggets.com/2020/12/machine-learning-anomaly-detection-conditional-monitoring.html
+https://www.geeksforgeeks.org/machine-learning-for-anomaly-detection/
+https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/
+
+Isolation Forest:
+------------------------------
+https://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e
+https://heartbeat.fritz.ai/isolation-forest-algorithm-for-anomaly-detection-2a4abd347a5
+https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf?q=isolation-forest
+https://blog.paperspace.com/anomaly-detection-isolation-forest/
+
+LOF:
+----
+https://scikit-learn.org/stable/auto_examples/neighbors/plot_lof_outlier_detection.html
+https://towardsdatascience.com/local-outlier-factor-for-anomaly-detection-cc0c770d2ebe
+https://medium.com/mlpoint/local-outlier-factor-a-way-to-detect-outliers-dde335d77e1a
+file:///C:/Users/P00072733/Downloads/BDCC-05-00001-v3%20(1).pdf
+
+
+SVM
+-----
+https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_classification_algorithms_support_vector_machine.htm
+https://www.kdnuggets.com/2020/03/machine-learning-algorithm-svm-explained.html
+
+
+
+One Class SVM:
+-------------------
+https://towardsdatascience.com/outlier-detection-with-one-class-svms-5403a1a1878c
+https://towardsdatascience.com/support-vector-machine-svm-for-anomaly-detection-73a8d676c331
+https://papers.nips.cc/paper/1999/file/8725fb777f25776ffa9076e44fcfd776-Paper.pdf
+https://www.datatechnotes.com/2020/04/anomaly-detection-with-one-class-svm.html
+https://www.dfki.de/fileadmin/user_upload/import/6957_One-class-SVM_anomaly-detection.pdf
+
+http://www1.cs.columbia.edu/~kmsvore/ocsvm.pdf
+
+
+
+------|
+Need these papers :
+----------------------
+https://ieeexplore.ieee.org/abstract/document/4781136
+https://dl.acm.org/doi/10.1145/342009.335388
+https://ieeexplore.ieee.org/document/4781136
+
+
+
